@@ -1,6 +1,6 @@
 # Final Project
 ## Airline Data of delays throughout the year
-### Airlines.csv found on:
+### Data found on:
 - #### https://www.kaggle.com/usdot/flight-delays?select=flights.csv
 - #### https://www.kaggle.com/priankravichandar/airline-delays-from-20032016
 ## Question to answer with the data:
