@@ -7,18 +7,18 @@
 ### Models we will use
 - #### Classification model
 ### Predicted output variable
-#### - Yes on time
-#### - Not on time
+- #### Yes on time
+- #### Not on time
 ## Inputs to the models to find the output
-#### - Month
-#### - Day
-#### - Day of the week
-#### - Airline
-#### - Fight number
-#### - Tail number
-#### - Origin Airport
-#### - Destination Airport
-#### - Distance
-#### - Arrival Delay
+- #### Month
+- #### Day
+- #### Day of the week
+- #### Airline
+- #### Fight number
+- #### Tail number
+- #### Origin Airport
+- #### Destination Airport
+- #### Distance
+- #### Arrival Delay
 ## Visual Component, interactive map?
  
