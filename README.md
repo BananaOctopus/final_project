@@ -5,7 +5,7 @@
 #### https://www.kaggle.com/priankravichandar/airline-delays-from-20032016
 ## Will the flights get to their destinations on time, yes or no?
 ### Models we will use
-#### - Classification model
+- #### Classification model
 ### Predicted output variable
 #### - Yes on time
 #### - Not on time
