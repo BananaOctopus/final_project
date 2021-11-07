@@ -6,8 +6,27 @@
 - #### https://www.kaggle.com/priankravichandar/airline-delays-from-20032016
 ## Question to answer with the data:
 ### Will the flights get to their destinations on time, yes or no?
+## Technologies Used:
+- #### Pandas
+- #### Linear Regression
+- #### Python
+- #### SQL
+- #### Tableau
+- #### HTML
+## Data Storage:
+- #### AWS
+- #### Google Collab
 ## Models we will use:
 - #### Classification model
+## Machine Learning:
+- #### SciKitLearn
+- #### Mlenv environment
+- #### Supervised Learning
+- #### Support vector machine (SVM)
+- #### Seaborn
+## Dashboard / Data Visualization:
+- #### Tableau
+- #### Heatmap
 ## Predicted output variable:
 - #### Yes on time
 - #### Not on time
@@ -22,5 +41,9 @@
 - #### Destination Airport
 - #### Distance
 - #### Arrival Delay
-## Visual Component, interactive map?
- 
+
+## Team Members:
+- #### Square: Paul
+- #### Triangle: Steve
+- #### Circle: Madi
+- #### X: Travis
