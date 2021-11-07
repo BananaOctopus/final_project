@@ -1,13 +1,32 @@
 # Final Project - Airline Data of delays throughout the year
-### link:
+## Link:
 - #### https://docs.google.com/document/d/14G7ar_dGK8lKotSjYoS-GqNo0bKTY-y4wRv0V9QEQTw/edit?usp=sharing
-- ## Data found on:
+## Data found on:
 - #### https://www.kaggle.com/usdot/flight-delays?select=flights.csv
 - #### https://www.kaggle.com/priankravichandar/airline-delays-from-20032016
 ## Question to answer with the data:
 ### Will the flights get to their destinations on time, yes or no?
+## Technologies Used:
+- #### Pandas
+- #### Linear Regression
+- #### Python
+- #### SQL
+- #### Tableau
+- #### HTML
+## Data Storage:
+- #### AWS
+- #### Google Collab
 ## Models we will use:
 - #### Classification model
+## Machine Learning:
+- #### SciKitLearn
+- #### Mlenv environment
+- #### Supervised Learning
+- #### Support vector machine (SVM)
+- #### Seaborn
+## Dashboard / Data Visualization:
+- #### Tableau
+- #### Heatmap
 ## Predicted output variable:
 - #### Yes on time
 - #### Not on time
@@ -22,5 +41,8 @@
 - #### Destination Airport
 - #### Distance
 - #### Arrival Delay
-## Visual Component, interactive map?
- 
+## Team Members:
+- #### Square: Paul
+- #### Triangle: Steve
+- #### Circle: Madi
+- #### X: Travis
