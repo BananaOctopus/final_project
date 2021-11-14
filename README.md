@@ -1,5 +1,7 @@
 # Final Project - Airline Data of delays throughout the year
-## Link:
+## Tableau Public URL:
+- #### https://public.tableau.com/shared/44DSMPRN3?:display_count=n&:origin=viz_share_link
+## Google Docs Link:
 - #### https://docs.google.com/document/d/14G7ar_dGK8lKotSjYoS-GqNo0bKTY-y4wRv0V9QEQTw/edit?usp=sharing
 ## Data found on:
 - #### https://www.kaggle.com/usdot/flight-delays?select=flights.csv
