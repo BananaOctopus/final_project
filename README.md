@@ -17,7 +17,7 @@
 - #### HTML
 ## Data Storage:
 - #### AWS
-- #### Google Collab
+- #### Google Colab
 ## Models we will use:
 - #### Classification model
 ## Machine Learning:
