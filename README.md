@@ -28,7 +28,6 @@
 - #### Seaborn
 ## Dashboard / Data Visualization:
 - #### Tableau
-- #### Heatmap
 ## Predicted output variable:
 - #### Yes on time
 - #### Not on time
