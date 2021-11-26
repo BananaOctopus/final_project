@@ -40,6 +40,7 @@
 <img width="862" alt="Machine Learning Task 7" src="https://user-images.githubusercontent.com/86431959/143657580-38c19670-66a6-49e9-b939-3a743d8202aa.png">
 <img width="860" alt="Machine Learning Task 8" src="https://user-images.githubusercontent.com/86431959/143657593-5db33303-a342-4aa4-933e-eff4dba23bec.png">
 <img width="860" alt="Machine Learning Task 9" src="https://user-images.githubusercontent.com/86431959/143657603-d39ec291-72eb-4bb6-a847-114dbb4d927d.png">
+
 ## Dashboard / Data Visualization:
 - #### Tableau
 <img width="969" alt="Interactive Element " src="https://user-images.githubusercontent.com/86431959/143657631-11757ce5-0575-4dc6-8d1f-c41b502115f0.png">
