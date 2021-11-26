@@ -28,22 +28,21 @@
 - #### Supervised Learning
 - #### Support vector machine (SVM)
 - #### Seaborn
-- <img width="1150" alt="Initial Analysis 1" src="https://user-images.githubusercontent.com/86431959/143657137-52f6e978-e390-481d-9b50-82af80da4c16.png">
-- <img width="1103" alt="Initial Analysis 2" src="https://user-images.githubusercontent.com/86431959/143657325-9782b3eb-2d7b-415f-b00a-d2b80168f50b.png">
-- <img width="1102" alt="Initial Analysis 3" src="https://user-images.githubusercontent.com/86431959/143657345-492449b3-fe01-4771-b7e3-9d2d2020457d.png">
+<img width="1150" alt="Initial Analysis 1" src="https://user-images.githubusercontent.com/86431959/143657137-52f6e978-e390-481d-9b50-82af80da4c16.png">
+<img width="1103" alt="Initial Analysis 2" src="https://user-images.githubusercontent.com/86431959/143657325-9782b3eb-2d7b-415f-b00a-d2b80168f50b.png">
+<img width="1102" alt="Initial Analysis 3" src="https://user-images.githubusercontent.com/86431959/143657345-492449b3-fe01-4771-b7e3-9d2d2020457d.png">
 <img width="1099" alt="Machine Learning Task 1" src="https://user-images.githubusercontent.com/86431959/143657369-b8af54a7-1def-4198-9bce-cc53194a4d5d.png">
-- <img width="1028" alt="Machine Learning Task 2" src="https://user-images.githubusercontent.com/86431959/143657379-41f667cc-74e2-4047-a273-1e68166fae61.png">
-- <img width="1024" alt="Machine Learning Task 3" src="https://user-images.githubusercontent.com/86431959/143657384-4392436b-bdf8-41ef-a3fd-f696852d8066.png">
-- <img width="1031" alt="Machine Learning Task 4" src="https://user-images.githubusercontent.com/86431959/143657408-a888ce9b-67fe-422a-8260-275549ce6a93.png">
-- <img width="863" alt="Machine Learning Task 5" src="https://user-images.githubusercontent.com/86431959/143657535-d2a1f59a-9866-491f-8e8b-25228c557aa1.png">
-- <img width="861" alt="Machine Learning Task 6" src="https://user-images.githubusercontent.com/86431959/143657546-66ff6775-0883-43fa-b0d6-e18f413fbfe6.png">
-- <img width="862" alt="Machine Learning Task 7" src="https://user-images.githubusercontent.com/86431959/143657580-38c19670-66a6-49e9-b939-3a743d8202aa.png">
-- <img width="860" alt="Machine Learning Task 8" src="https://user-images.githubusercontent.com/86431959/143657593-5db33303-a342-4aa4-933e-eff4dba23bec.png">
-- <img width="860" alt="Machine Learning Task 9" src="https://user-images.githubusercontent.com/86431959/143657603-d39ec291-72eb-4bb6-a847-114dbb4d927d.png">
-
+<img width="1028" alt="Machine Learning Task 2" src="https://user-images.githubusercontent.com/86431959/143657379-41f667cc-74e2-4047-a273-1e68166fae61.png">
+<img width="1024" alt="Machine Learning Task 3" src="https://user-images.githubusercontent.com/86431959/143657384-4392436b-bdf8-41ef-a3fd-f696852d8066.png">
+<img width="1031" alt="Machine Learning Task 4" src="https://user-images.githubusercontent.com/86431959/143657408-a888ce9b-67fe-422a-8260-275549ce6a93.png">
+<img width="863" alt="Machine Learning Task 5" src="https://user-images.githubusercontent.com/86431959/143657535-d2a1f59a-9866-491f-8e8b-25228c557aa1.png">
+<img width="861" alt="Machine Learning Task 6" src="https://user-images.githubusercontent.com/86431959/143657546-66ff6775-0883-43fa-b0d6-e18f413fbfe6.png">
+<img width="862" alt="Machine Learning Task 7" src="https://user-images.githubusercontent.com/86431959/143657580-38c19670-66a6-49e9-b939-3a743d8202aa.png">
+<img width="860" alt="Machine Learning Task 8" src="https://user-images.githubusercontent.com/86431959/143657593-5db33303-a342-4aa4-933e-eff4dba23bec.png">
+<img width="860" alt="Machine Learning Task 9" src="https://user-images.githubusercontent.com/86431959/143657603-d39ec291-72eb-4bb6-a847-114dbb4d927d.png">
 ## Dashboard / Data Visualization:
 - #### Tableau
-- <img width="969" alt="Interactive Element " src="https://user-images.githubusercontent.com/86431959/143657631-11757ce5-0575-4dc6-8d1f-c41b502115f0.png">
+<img width="969" alt="Interactive Element " src="https://user-images.githubusercontent.com/86431959/143657631-11757ce5-0575-4dc6-8d1f-c41b502115f0.png">
 ## Predicted output variable:
 - #### Yes on time
 - #### Not on time
