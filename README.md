@@ -43,7 +43,7 @@
 
 ## Dashboard / Data Visualization:
 - #### Tableau
-<img width="971" alt="Interactive Element" src="https://user-images.githubusercontent.com/86431959/143659265-e76ac887-071c-42be-babf-578a6f1409c8.png">
+<img width="971" alt="Interactive Element" src="https://user-images.githubusercontent.com/86431959/143659021-030d7b84-a2e9-4cac-8500-87279d628d5e.png">
 
 ## Predicted output variable:
 - #### Yes on time
