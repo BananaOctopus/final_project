@@ -1,6 +1,6 @@
 # Final Project - Airline Data of delays throughout the year
 ## Google Slides Blueprint Presentation:
-- #### https://docs.google.com/presentation/d/1FTSCootMZVRNxT0RIMRpa7vHUghSKrHHNp3aYZMwXkk/edit#slide=id.g10353ea52fb_0_0
+- #### https://docs.google.com/presentation/d/1FTSCootMZVRNxT0RIMRpa7vHUghSKrHHNp3aYZMwXkk/edit?usp=sharing
 ## Tableau Public URL:
 - #### https://public.tableau.com/shared/44DSMPRN3?:display_count=n&:origin=viz_share_link
 ## Google Docs Link:
