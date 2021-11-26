@@ -31,7 +31,7 @@
 <img width="1150" alt="Initial Analysis 1" src="https://user-images.githubusercontent.com/86431959/143659165-9be5500d-0b53-4af4-b30b-05013ffed7df.png">
 <img width="1103" alt="Initial Analysis 2" src="https://user-images.githubusercontent.com/86431959/143659174-2870d619-9589-4ae7-8eef-2eaad78da7f8.png">
 <img width="1102" alt="Initial Analysis 3" src="https://user-images.githubusercontent.com/86431959/143659181-7295abc7-426b-4b8d-8acb-c3370ece424b.png">
-<img width="1099" alt="Machine Learning Task 1" src="https://user-images.githubusercontent.com/86431959/143659191-b4a461c3-3819-4e0b-9b1cbafffcc6873b.png">
+<img width="1099" alt="Machine Learning Task 1" src="https://user-images.githubusercontent.com/86431959/143659391-9b32ec6b-2361-43eb-b8cb-29539b546b28.png">
 <img width="1028" alt="Machine Learning Task 2" src="https://user-images.githubusercontent.com/86431959/143659217-c1eece99-4f52-4ff1-a854-e79bbfd47367.png">
 <img width="1024" alt="Machine Learning Task 3" src="https://user-images.githubusercontent.com/86431959/143659224-93ed9d9b-40f7-4424-94bb-b5c02470ba3d.png">
 <img width="1031" alt="Machine Learning Task 4" src="https://user-images.githubusercontent.com/86431959/143659230-2cc93860-6f19-4a01-90b5-a818de89f488.png">
