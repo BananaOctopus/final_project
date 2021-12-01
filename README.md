@@ -32,6 +32,7 @@
 - #### Supervised Learning
 - #### Support vector machine (SVM)
 - #### Seaborn
+- #### onehot_encode
 
 ## Dashboard / Data Visualization:
 - #### Tableau (Link in introduction)
@@ -55,6 +56,7 @@
 - #### Fight number
 - #### Origin Airport
 - #### Arrival Delay
+
 ## Team Members:
 - #### Square: Paul
 - #### Triangle: Steve
