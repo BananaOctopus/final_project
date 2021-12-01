@@ -9,17 +9,18 @@
 - #### https://www.kaggle.com/usdot/flight-delays?select=flights.csv
 - #### https://www.kaggle.com/priankravichandar/airline-delays-from-20032016
 ## Question to answer with the data:
+
 ### Will the flights get to their destinations on time, yes or no?
+
 ## Technologies Used:
 - #### Pandas
-- #### Linear Regression
+- #### Jupyter Notebook
+- #### Google Slides
 - #### Python
-- #### SQL
+- #### SQLite
 - #### Tableau
 - #### HTML
-## Data Storage:
-- #### AWS
-- #### Google Colab
+
 ## Models we will use:
 - #### Classification model
 - #### Logistical Regression
