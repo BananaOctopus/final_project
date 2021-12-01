@@ -1,13 +1,42 @@
 # Final Project - Airline Data of delays throughout the year
-### link:
+## Google Slides Presentation:
+- #### https://docs.google.com/presentation/d/1FTSCootMZVRNxT0RIMRpa7vHUghSKrHHNp3aYZMwXkk/edit?usp=sharing
+## Tableau Public URL and Interactive Elements:
+- #### https://public.tableau.com/views/FlightDelayInformation/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+## Google Docs Link:
 - #### https://docs.google.com/document/d/14G7ar_dGK8lKotSjYoS-GqNo0bKTY-y4wRv0V9QEQTw/edit?usp=sharing
-- ## Data found on:
+## Data found on:
 - #### https://www.kaggle.com/usdot/flight-delays?select=flights.csv
 - #### https://www.kaggle.com/priankravichandar/airline-delays-from-20032016
 ## Question to answer with the data:
 ### Will the flights get to their destinations on time, yes or no?
+## Technologies Used:
+- #### Pandas
+- #### Linear Regression
+- #### Python
+- #### SQL
+- #### Tableau
+- #### HTML
+## Data Storage:
+- #### AWS
+- #### Google Colab
 ## Models we will use:
 - #### Classification model
+- #### Logistical Regression
+- #### Random Tree
+
+## Machine Learning:
+- #### SciKitLearn
+- #### Mlenv environment
+- #### Supervised Learning
+- #### Support vector machine (SVM)
+- #### Seaborn
+
+## Dashboard / Data Visualization:
+- #### Tableau (Link in introduction)
+- ##### Example Below
+<img width="992" alt="Interactive Element" src="https://user-images.githubusercontent.com/86431959/143792558-caa193cc-e92a-44b1-a9f9-ae4b29a8da3d.png">
+
 ## Predicted output variable:
 - #### Yes on time
 - #### Not on time
@@ -22,5 +51,8 @@
 - #### Destination Airport
 - #### Distance
 - #### Arrival Delay
-## Visual Component, interactive map?
- 
+## Team Members:
+- #### Square: Paul
+- #### Triangle: Steve
+- #### Circle: Madi
+- #### X: Travis
