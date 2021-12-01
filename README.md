@@ -37,19 +37,22 @@
 - ##### Example Below
 <img width="992" alt="Interactive Element" src="https://user-images.githubusercontent.com/86431959/143792558-caa193cc-e92a-44b1-a9f9-ae4b29a8da3d.png">
 
+## Some results
+### Confusion Matrix from logistical regression
+ 
+ ![Confusion_Matrix](https://user-images.githubusercontent.com/84158312/144155369-8378df2b-5e86-43c6-8a64-b49acd182c1b.png)
+
+### Indicates that our machine learning module is accurate ~ 61% if your flight will be delayed or not.
+
 ## Predicted output variable:
 - #### Yes on time
 - #### Not on time
 ## Inputs to the models to find the output:
 - #### Month
 - #### Day
-- #### Day of the week
 - #### Airline
 - #### Fight number
-- #### Tail number
 - #### Origin Airport
-- #### Destination Airport
-- #### Distance
 - #### Arrival Delay
 ## Team Members:
 - #### Square: Paul
