@@ -22,5 +22,6 @@
 - #### Destination Airport
 - #### Distance
 - #### Arrival Delay
-## Visual Component, interactive map?
+## Visual Component
+https://public.tableau.com/views/FlightDelayInformation/FlightDelayInformation?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
  
