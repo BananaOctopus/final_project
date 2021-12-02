@@ -19,7 +19,6 @@
 - #### Python
 - #### SQLite
 - #### Tableau
-- #### HTML
 
 ## Models we will use:
 - #### Classification model
